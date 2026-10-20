@@ -11,6 +11,8 @@
 
 [English](#english) · [中文](#中文)
 
+📺 **[Animated state preview gallery →](previews/README.md)** — looping GIFs of all 39 states, rendered offline from the component. / 全部 39 个状态的循环动图预览，由组件离线渲染。
+
 ---
 
 ## Changelog / 更新日志
